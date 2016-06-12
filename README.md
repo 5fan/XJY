@@ -1,4 +1,4 @@
-![header_bookshop_20160605-c](https://cloud.githubusercontent.com/assets/19661274/15989086/810f2510-30ae-11e6-8bcf-fb0a0d84e6c3.jpg)
+[![header_bookshop_20160605-c](https://cloud.githubusercontent.com/assets/19661274/15989086/810f2510-30ae-11e6-8bcf-fb0a0d84e6c3.jpg)](https://d6rojcwfw6e31.cloudfront.net/cn/books/shop?m=https://d6rojcwfw6e31.cloudfront.net&q=234234343244324)
 
 <a ID="book-032" href="http://shop.epochweekly.com/tw/book/江澤民逼習近平反目成仇-41637146" title="江澤民逼習近平反目成仇"><img  border="0" width="150"  alt="江澤民逼習近平反目成仇" src="https://cloud.githubusercontent.com/assets/19661274/15989149/cfa15520-30b0-11e6-962b-d8b2ffdc4326.jpg" /></a>
 <a ID="book-024" href="http://shop.epochweekly.com/tw/book/習江三次生死交鋒-86283711" title="習江三次生死交鋒"><img  border="0" width="150"  alt="習江三次生死交鋒" src="https://cloud.githubusercontent.com/assets/19661274/15989140/cf68ccdc-30b0-11e6-994e-ca0a6ac63bdc.jpg" /></a>
