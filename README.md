@@ -40,9 +40,7 @@
 <a ID="book-022" href="http://shop.epochweekly.com/tw/book/周永康重要黨羽揭秘-7518137" title="周永康重要黨羽揭秘"><img  border="0" width="150"  alt="周永康重要黨羽揭秘" src="http://epochweekly.ten01.net//uploads/covers/content_77-2016-02-16.jpg" /></a>
 <a ID="book-021" href="http://shop.epochweekly.com/tw/book/周黨反攻大動作-61265772" title="周黨反攻大動作"><img  border="0" width="150"  alt="周黨反攻大動作" src="http://epochweekly.ten01.net//uploads/covers/content_76-2016-02-16.jpg" /></a>
 <a ID="book-020" href="http://shop.epochweekly.com/tw/book/中共活摘器官-40473187" title="中共活摘器官"><img  border="0" width="150"  alt="中共活摘器官" src="http://epochweekly.ten01.net//uploads/covers/content_75-2016-02-11.jpg" /></a>
-
 <a ID="book-019" href="bookdetail19.htm" title="2014年12大預測"><img  border="0" width="150"  alt="2014年12大預測" src="http://epochweekly.ten01.net//uploads/covers/content_74-2016-02-16.jpg" /></a>
-
 <a ID="book-018" href="http://shop.epochweekly.com/tw/book/周永康垮台全程大揭密-73274864" title="周永康垮台全程大揭密"><img  border="0" width="150"  alt="周永康垮台全程大揭密" src="http://epochweekly.ten01.net//uploads/covers/content_73-2016-02-16.jpg" /></a>
 <a ID="book-017" href="http://shop.epochweekly.com/tw/book/周永康垮臺驚天內幕-77636680" title="周永康垮臺驚天內幕--暗殺習近平另有圖謀"><img  border="0" width="150"  alt="周永康垮臺驚天內幕--暗殺習近平另有圖謀" src="http://epochweekly.ten01.net//uploads/covers/content_72-2016-02-16.jpg" /></a>
 <a ID="book-016" href="http://shop.epochweekly.com/tw/book/習王李激戰江澤民-73467771" title="習王李激戰江澤民 - 太子黨們在「前後三十年互不否定」背後大打出手"><img  border="0" width="150"  alt="習王李激戰江澤民 - 太子黨們在「前後三十年互不否定」背後大打出手" src="http://epochweekly.ten01.net//uploads/covers/content_71-2016-02-16.jpg" /></a>
