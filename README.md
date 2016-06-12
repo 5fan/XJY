@@ -1,6 +1,6 @@
 ![header_bookshop_20160605-c](https://cloud.githubusercontent.com/assets/19661274/15989086/810f2510-30ae-11e6-8bcf-fb0a0d84e6c3.jpg)
 
-<a ID="book-032" href="http://shop.epochweekly.com/tw/book/江澤民逼習近平反目成仇-41637146" title="江澤民逼習近平反目成仇"><img  border="0" width="150"  alt="江澤民逼習近平反目成仇" src="http://epochweekly.ten01.net//uploads/covers/content_38-2016-02-16.jpg" /></a>
+<a ID="book-032" href="http://shop.epochweekly.com/tw/book/江澤民逼習近平反目成仇-41637146" title="江澤民逼習近平反目成仇"><img  border="0" width="150"  alt="江澤民逼習近平反目成仇" src="https://cloud.githubusercontent.com/assets/19661274/15989149/cfa15520-30b0-11e6-962b-d8b2ffdc4326.jpg" /></a>
 <a ID="book-024" href="http://shop.epochweekly.com/tw/book/習江三次生死交鋒-86283711" title="習江三次生死交鋒"><img  border="0" width="150"  alt="習江三次生死交鋒" src="http://epochweekly.ten01.net//uploads/covers/content_55-2016-02-16.jpg" /></a>
 <a ID="book-036" href="http://shop.epochweekly.com/tw/book/王岐山佈陣-大-4564658" title="王岐山佈陣19大"><img  border="0" width="150"  alt="王岐山佈陣19大" src="http://epochweekly.ten01.net//uploads/covers/content_22-2016-02-12.jpg" /></a>
 <a ID="book-025" href="http://shop.epochweekly.com/tw/book/曾慶紅暗殺習近平-78513876" title="曾慶紅暗殺習近平"><img  border="0" width="150"  alt="曾慶紅暗殺習近平" src="http://epochweekly.ten01.net//uploads/covers/content_79-2016-02-16.jpg" /></a>
