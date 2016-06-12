@@ -64,7 +64,4 @@
 <a ID="book-002" href="http://shop.epochweekly.com/tw/book/中南海政治海嘯大揭秘-下-46857856" title="中南海政治海嘯全程大揭秘（下） 鮮為人知的胡錦濤「奪位戰」"><img  border="0" width="150"  alt="中南海政治海嘯全程大揭秘（下） 鮮為人知的胡錦濤「奪位戰」" src="http://epochweekly.ten01.net//uploads/covers/content_58-2016-02-16.jpg" /></a>
 <a ID="book-001" href="http://shop.epochweekly.com/tw/book/中南海政治海嘯大揭秘-上-87220062" title="中南海政治海嘯全程大揭秘（上） 習近平接班前的政變秘聞"><img  border="0" width="150"  alt="中南海政治海嘯全程大揭秘（上） 習近平接班前的政變秘聞" src="http://epochweekly.ten01.net//uploads/covers/content_57-2016-02-11.jpg" /></a>
 
-  
-  </body>
-</html>
 
