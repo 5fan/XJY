@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="zh-hant-TW">
   <head>
     <meta charset="UTF-8">
