@@ -16,8 +16,7 @@
 
 <h3><a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true">新紀元叢書—圖書總目錄<span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
 
-<a ID="book-043" href="http://shop.epochweekly.com/tw/book/習近平軍改揭秘-6035271" title="習近平軍改揭秘"><img  border="0" width="150"  alt="習近平軍改揭秘" src="https://cloud.githubusercontent.com/assets/19661274/15989143/cf70da30-30b0-11e6-9759-98a18889d34e.jpg
-" /></a>
+<a ID="book-043" href="http://shop.epochweekly.com/tw/book/習近平軍改揭秘-6035271" title="習近平軍改揭秘"><img  border="0" width="150"  alt="習近平軍改揭秘" src="https://cloud.githubusercontent.com/assets/19661274/15989143/cf70da30-30b0-11e6-9759-98a18889d34e.jpg" /></a>
 <a ID="book-042" href="http://shop.epochweekly.com/tw/book/習近平大外交背後政治廝殺-40688583" title="習近平大外交背後的政治廝殺"><img  border="0" width="150"  alt="習近平大外交背後的政治廝殺" src="https://cloud.githubusercontent.com/assets/19661274/15989144/cf7381e0-30b0-11e6-88b5-95a94059cc3f.jpg" /></a>
 <a ID="book-041" href="http://shop.epochweekly.com/tw/book/全中國坐等出事-83785724" title="全中國坐等出事"><img  border="0" width="150"  alt="全中國坐等出事" src="https://cloud.githubusercontent.com/assets/19661274/15989142/cf6f6d3a-30b0-11e6-8fa2-48cb8a4aff31.jpg" /></a>
 <a ID="book-040" href="http://shop.epochweekly.com/tw/book/慶親王-鐵帽子王-曾慶紅-55815877" title="慶親王.鐵帽子王.曾慶紅"><img  border="0" width="150"  alt="慶親王.鐵帽子王.曾慶紅" src="http://epochweekly.ten01.net//uploads/covers/content_83-2016-03-20.jpg" /></a>
