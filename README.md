@@ -1,26 +1,4 @@
-<html lang="zh-hant-TW">
-  <head>
-    <meta charset="UTF-8">
-    <title>New-Epoch-Weekly 新紀元周刊</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet_20160605-D.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
-  </head>
-  <body>
-    <section class="page-header">
-			<!--
-      <img src="images/header_bookshop_20160605-C.jpg">
-      <h1 class="project-name">New-Epoch-Weekly</h1>
-      <h2 class="project-tagline"></h2>
-      <a href="http://www.epochweekly.com" class="btn">雜誌</a>
-      <a href="http://shop.epochweekly.com" class="btn">叢書</a>
-			-->
-    </section>
-
-    <section class="main-content">
-
+![header_bookshop_20160605-c](https://cloud.githubusercontent.com/assets/19661274/15989086/810f2510-30ae-11e6-8bcf-fb0a0d84e6c3.jpg)
 
 <a ID="book-032" href="http://shop.epochweekly.com/tw/book/江澤民逼習近平反目成仇-41637146" title="江澤民逼習近平反目成仇"><img  border="0" width="150"  alt="江澤民逼習近平反目成仇" src="http://epochweekly.ten01.net//uploads/covers/content_38-2016-02-16.jpg" /></a>
 <a ID="book-024" href="http://shop.epochweekly.com/tw/book/習江三次生死交鋒-86283711" title="習江三次生死交鋒"><img  border="0" width="150"  alt="習江三次生死交鋒" src="http://epochweekly.ten01.net//uploads/covers/content_55-2016-02-16.jpg" /></a>
@@ -85,13 +63,6 @@
 <a ID="book-003" href="http://shop.epochweekly.com/tw/book/薄谷開來案中奇案-53063660" title="薄谷開來案中奇案"><img  border="0" width="150"  alt="薄谷開來案中奇案" src="http://epochweekly.ten01.net//uploads/covers/content_59-2016-02-16.jpg" /></a>
 <a ID="book-002" href="http://shop.epochweekly.com/tw/book/中南海政治海嘯大揭秘-下-46857856" title="中南海政治海嘯全程大揭秘（下） 鮮為人知的胡錦濤「奪位戰」"><img  border="0" width="150"  alt="中南海政治海嘯全程大揭秘（下） 鮮為人知的胡錦濤「奪位戰」" src="http://epochweekly.ten01.net//uploads/covers/content_58-2016-02-16.jpg" /></a>
 <a ID="book-001" href="http://shop.epochweekly.com/tw/book/中南海政治海嘯大揭秘-上-87220062" title="中南海政治海嘯全程大揭秘（上） 習近平接班前的政變秘聞"><img  border="0" width="150"  alt="中南海政治海嘯全程大揭秘（上） 習近平接班前的政變秘聞" src="http://epochweekly.ten01.net//uploads/covers/content_57-2016-02-11.jpg" /></a>
-
-
-      <footer class="site-footer">
-        <span class="site-footer-owner"><a href="http://www.epochweekly.com">新紀元周刊</a>每週三出刊 <a href="http://shop.epochweekly.com">新紀元電子商務網-新紀元書城</a>.</span>
-      </footer>
-
-    </section>
 
   
   </body>
