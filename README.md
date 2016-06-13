@@ -58,5 +58,6 @@
 <a ID="book-003" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/薄谷開來案中奇案-53063660?m=https://d6rojcwfw6e31.cloudfront.net&q=234234343244324" title="薄谷開來案中奇案"><img  border="0" width="150"  alt="薄谷開來案中奇案" src="https://cloud.githubusercontent.com/assets/19661274/15994440/2ead514e-3148-11e6-932b-eb0bd3ec25bc.jpg" /></a>
 <a ID="book-002" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/中南海政治海嘯大揭秘-下-46857856?m=https://d6rojcwfw6e31.cloudfront.net&q=234234343244324" title="中南海政治海嘯全程大揭秘（下） 鮮為人知的胡錦濤「奪位戰」"><img  border="0" width="150"  alt="中南海政治海嘯全程大揭秘（下） 鮮為人知的胡錦濤「奪位戰」" src="https://cloud.githubusercontent.com/assets/19661274/15994438/2ea9a878-3148-11e6-8f2d-45fe89c92758.jpg" /></a>
 <a ID="book-001" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/中南海政治海嘯大揭秘-上-87220062?m=https://d6rojcwfw6e31.cloudfront.net&q=234234343244324" title="中南海政治海嘯全程大揭秘（上） 習近平接班前的政變秘聞"><img  border="0" width="150"  alt="中南海政治海嘯全程大揭秘（上） 習近平接班前的政變秘聞" src="https://cloud.githubusercontent.com/assets/19661274/15994439/2ea9f576-3148-11e6-830a-01a672509334.jpg" /></a>
-
-
+<p></p>
+<a ID="xjyweekly" href="https://github.com/zx168/XJY" target="_blank">新紀元周刊</a><a>每週三出刊</a>
+<a ID="xjyweekly" href="https://d6rojcwfw6e31.cloudfront.net/cn/books/shop?m=https://d6rojcwfw6e31.cloudfront.net&q=234234343244324" target="_blank">新紀元電子商務網-新紀元書城</a><a>.</a>
