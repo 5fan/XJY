@@ -14,7 +14,7 @@
 <a ID="book-042" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/習近平大外交背後政治廝殺-40688583?m=https://d6rojcwfw6e31.cloudfront.net&q=234234343244324" title="習近平大外交背後的政治廝殺"><img  border="0" width="150"  alt="習近平大外交背後的政治廝殺" src="https://cloud.githubusercontent.com/assets/19661274/15989144/cf7381e0-30b0-11e6-88b5-95a94059cc3f.jpg" /></a>
 
 
-<h3><a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true">新紀元叢書—圖書總目錄<span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
+<h3 <h3 class="slogan-02">聯繫我們： epochweekly2016@gmail.com, QQ:2784469293</h3>
 
 <a ID="book-043" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/習近平軍改揭秘-6035271?m=https://d6rojcwfw6e31.cloudfront.net&q=234234343244324" title="習近平軍改揭秘"><img  border="0" width="150"  alt="習近平軍改揭秘" src="https://cloud.githubusercontent.com/assets/19661274/15989143/cf70da30-30b0-11e6-9759-98a18889d34e.jpg" /></a>
 <a ID="book-042" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/習近平大外交背後政治廝殺-40688583?m=https://d6rojcwfw6e31.cloudfront.net&q=234234343244324" title="習近平大外交背後的政治廝殺"><img  border="0" width="150"  alt="習近平大外交背後的政治廝殺" src="https://cloud.githubusercontent.com/assets/19661274/15989144/cf7381e0-30b0-11e6-88b5-95a94059cc3f.jpg" /></a>
