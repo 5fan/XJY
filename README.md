@@ -3,6 +3,9 @@
 
 <p><img src="https://cloud.githubusercontent.com/assets/19661274/16099610/8207e1c8-339c-11e6-93e0-b78ff89e6833.png"></p>
 
+<p><a id="user-content-book-043" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/習近平軍改揭秘-6035271?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="習近平軍改揭秘" target="_blank"><img src="https://cloud.githubusercontent.com/assets/19661274/16367373/076076ec-3c66-11e6-87ef-b34708094bae.jpg"></a></p>
+
+<p><img src="https://cloud.githubusercontent.com/assets/19661274/16367374/07610922-3c66-11e6-9d9d-30a5d3141c24.jpg"></p>
 <p>
 <a id="user-content-book-032" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/江澤民逼習近平反目成仇-41637146?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="江澤民逼習近平反目成仇"><img border="0" width="140" alt="江澤民逼習近平反目成仇" src="https://cloud.githubusercontent.com/assets/19661274/15989149/cfa15520-30b0-11e6-962b-d8b2ffdc4326.jpg" style="max-width:100%;"></a>
 <a id="user-content-book-024" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/習江三次生死交鋒-86283711?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="習江三次生死交鋒"><img border="0" width="140" alt="習江三次生死交鋒" src="https://cloud.githubusercontent.com/assets/19661274/15989140/cf68ccdc-30b0-11e6-994e-ca0a6ac63bdc.jpg" style="max-width:100%;"></a>
